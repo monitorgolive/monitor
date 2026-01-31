@@ -1,0 +1,4 @@
+venv
+.venv
+*.docx
+monitor_go copy.ini
